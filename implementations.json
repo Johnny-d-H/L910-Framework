@@ -1,0 +1,35 @@
+{
+  "implementations": [
+    {
+      "id": "i-001",
+      "patternId": "p-001",
+      "language": "JavaScript",
+      "author": "Ivan",
+      "isAsync": false,
+      "createdAt": "2023-03-01T09:00:00.000Z",
+      "examples": [
+        "module.exports = new Singleton();"
+      ]
+    },
+    {
+      "id": "i-002",
+      "patternId": "p-002",
+      "language": "Python",
+      "author": "Ivan",
+      "isAsync": true,
+      "createdAt": "2023-03-10T14:45:00.000Z",
+      "examples": [
+        "class Observer: ..."
+      ]
+    },
+    {
+      "id": "i-1767087203707",
+      "patternId": "p-unknown",
+      "language": "Unknown",
+      "author": "Anonymous",
+      "isAsync": false,
+      "createdAt": "2025-12-30",
+      "examples": []
+    }
+  ]
+}

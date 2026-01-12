@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "id": "m-001",
+      "title": "Интерстеллар",
+      "duration": 169,
+      "isAvailable": true,
+      "genres": [
+        "sci-fi",
+        "drama"
+      ],
+      "releaseDate": "2014-11-07"
+    },
+    {
+      "id": "m-002",
+      "title": "Дюна: Часть вторая",
+      "duration": 155,
+      "isAvailable": true,
+      "genres": [
+        "sci-fi",
+        "adventure"
+      ],
+      "releaseDate": "2024-03-01"
+    },
+    {
+      "id": "m-1767086780678",
+      "title": "Без названия",
+      "duration": 120,
+      "isAvailable": true,
+      "genres": [
+        "unknown"
+      ],
+      "releaseDate": "2025-12-30"
+    }
+  ]
+}

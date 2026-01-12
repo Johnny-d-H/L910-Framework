@@ -1,0 +1,28 @@
+{
+  "sessions": [
+    {
+      "id": "s-101",
+      "movieId": "m-001",
+      "hall": 3,
+      "price": 12.5,
+      "is3D": false,
+      "startTime": "2025-01-15T18:30:00"
+    },
+    {
+      "id": "s-102",
+      "movieId": "m-002",
+      "hall": 1,
+      "price": 15,
+      "is3D": true,
+      "startTime": "2025-01-16T20:00:00"
+    },
+    {
+      "id": "s-1767087000622",
+      "movieId": "m-unknown",
+      "hall": 1,
+      "price": 10,
+      "is3D": false,
+      "startTime": "2025-12-30T10:30:00.622Z"
+    }
+  ]
+}

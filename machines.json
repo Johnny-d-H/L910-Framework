@@ -1,0 +1,37 @@
+{
+  "machines": [
+    {
+      "id": "mc-001",
+      "name": "Токарный станок",
+      "type": "Металлообработка",
+      "isActive": true,
+      "capacity": 50,
+      "installedAt": "2022-03-10",
+      "features": [
+        "автоматический",
+        "энергосберегающий"
+      ]
+    },
+    {
+      "id": "mc-002",
+      "name": "Сварочный аппарат",
+      "type": "Сварка",
+      "isActive": false,
+      "capacity": 20,
+      "installedAt": "2021-07-25",
+      "features": [
+        "ручной режим",
+        "защита от перегрева"
+      ]
+    },
+    {
+      "id": "mc-1767089000000",
+      "name": "Без названия",
+      "type": "Unknown",
+      "isActive": true,
+      "capacity": 100,
+      "installedAt": "2025-12-30",
+      "features": []
+    }
+  ]
+}

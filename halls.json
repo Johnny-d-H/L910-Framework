@@ -1,0 +1,41 @@
+{
+  "halls": [
+    {
+      "id": "h-001",
+      "name": "Большой зал",
+      "capacity": 200,
+      "isAvailable": true,
+      "features": [
+        "Dolby Atmos",
+        "IMAX"
+      ],
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "h-002",
+      "name": "Малый зал",
+      "capacity": 80,
+      "isAvailable": false,
+      "features": [
+        "2D"
+      ],
+      "createdAt": "2025-01-02"
+    },
+    {
+      "id": "h-1767088245979",
+      "name": "Без названия",
+      "capacity": 100,
+      "isAvailable": true,
+      "features": [],
+      "createdAt": "2025-12-30"
+    },
+    {
+      "id": "h-1767111282996",
+      "name": "Без названия",
+      "capacity": 100,
+      "isAvailable": true,
+      "features": [],
+      "createdAt": "2025-12-30"
+    }
+  ]
+}
